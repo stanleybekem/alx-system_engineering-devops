@@ -1,3 +1,2 @@
 #!/bin/bash
-hellofile
-
+tr -d "cC"
